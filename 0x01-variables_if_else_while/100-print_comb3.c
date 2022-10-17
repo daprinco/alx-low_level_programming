@@ -1,12 +1,12 @@
 #include <stdio.h>
-/**
- * main – Entry
- *
- * Description: Function to calculate
- *
- * Return: (0) - Success
- */
 
+/**
+ * main - Entry
+ *
+ * Description: function declaration
+ *
+ * Return: Always 0
+ */
 int main(void)
 {
 	int i = 0;
@@ -33,6 +33,7 @@ int main(void)
 
 	}
 	putchar('\n');
+
 	return (0);
 
 }
