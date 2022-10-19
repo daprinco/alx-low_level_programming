@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * _islower - returns lower case alph
  *
