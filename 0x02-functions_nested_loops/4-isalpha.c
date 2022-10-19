@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - returns lower case alph
+ * _isalpha - returns lower case alph
  *
  * @c: is an input to function
  *
