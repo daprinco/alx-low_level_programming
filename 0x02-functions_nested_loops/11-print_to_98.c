@@ -14,12 +14,12 @@ void print_to_98(int n)
 		{
 			if (i != 98)
 			{
-				_putchar(i + '0');
+				_putchar(i + 48);
 				_putchar(',');
 				_putchar(' ');
 			}
 			else
-				_putchar(i + '0');
+				_putchar(i + 48);
 		}
 	}
 	else
