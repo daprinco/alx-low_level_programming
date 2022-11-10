@@ -9,7 +9,7 @@
  */
 int main(int argc, char **argv)
 {
-	int a, b, sum;
+	int a, b, mult;
 
 	if (argc < 3)
 	{
@@ -19,8 +19,8 @@ int main(int argc, char **argv)
 
 	a = atoi(argv[1]);
 	b = atoi(argv[2]);
-	sum = a * b;
-	printf("%d\n", sum);
+	mult = a * b;
+	printf("%d\n", mult);
 
 	return (0);
 }
